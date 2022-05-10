@@ -1,0 +1,36 @@
+export const DISTRICTS = 'DISTRICTS';
+export const COMMUNITIES = 'COMMUNITIES';
+export const BUILDINGS = 'BUILDINGS';
+export const UNITS = 'UNITS';
+export const TRANSACTIONS = 'TRANSACTIONS';
+export const CONTACTS = 'CONTACTS';
+export const REQUESTS = 'REQUESTS';
+export const DASHBOARD = 'DASHBOARD';
+//
+export const TRANSACTION_PAYMENTS = 'TRANSACTION_PAYMENTS';
+export const COMPLAINTS = 'COMPLAINTS';
+export const PRIVACY_POLICY = 'PRIVACY_POLICY';
+export const TERMS_AND_CONDITIONS = 'TERMS_AND_CONDITIONS';
+export const ADMIN = 'ADMIN';
+export const MANAGER = 'MANAGER';
+export const TENANT = 'TENANT';
+export const SECURITY = 'SECURITY';
+export const MAINTENANCE = 'MAINTENANCE';
+export const CLEANING = 'CLEANING';
+export const PROFILE = 'PROFILE';
+export const COMPLAIN = 'COMPLAIN';
+export const ANNOUNCEMENT = 'ANNOUNCEMENT';
+export const VISITOR_SETTINGS = 'VISITOR_SETTINGS';
+export const INVOICE = 'INVOICE';
+export const REQUEST_CATEGORY = 'REQUEST_CATEGORY';
+export const USER_WORKING_HOURS = 'USER_WORKING_HOURS';
+//
+export const PROPERTY = 'PROPERTY';
+export const LEASING = 'LEASING';
+export const MAINTENANCE_REQUEST = 'MAINTENANCE_REQUEST';
+export const CAR_CLEANING_REQUEST = 'CAR_CLEANING_REQUEST';
+export const HOME_CLEANING_REQUEST = 'HOME_CLEANING_REQUEST';
+export const VISITOR_ACCESS_REQUEST = 'VISITOR_ACCESS_REQUEST';
+export const HELP = 'HELP';
+export const LOGOUT = 'LOGOUT';
+export const OTHER = 'OTHER';

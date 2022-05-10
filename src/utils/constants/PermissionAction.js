@@ -1,0 +1,18 @@
+export const VIEW = 'VIEW';
+export const CREATE = 'CREATE';
+export const DELETE = 'DELETE';
+export const UPDATE = 'UPDATE';
+export const ASSIGN_STAFF = 'ASSIGN_STAFF';
+export const APPROVE_REQUEST = 'APPROVE_REQUEST';
+export const CLOSE_REQUEST = 'CLOSE_REQUEST';
+export const CHECK_IN_VISIT_ACCESS = 'CHECK_IN_VISIT_ACCESS';
+export const RESTORE = 'RESTORE';
+export const TENANT_MOVE_IN = 'TENANT_MOVE_IN';
+export const TENANT_MOVE_OUT = 'TENANT_MOVE_OUT';
+export const VISITOR_CREATE = 'VISITOR_CREATE';
+//
+export const APPROVE_TENANT_MOVE_IN = 'APPROVE_TENANT_MOVE_IN';
+export const APPROVE_TENANT_MOVE_OUT = 'APPROVE_TENANT_MOVE_OUT';
+export const CHECK_OUT_VISIT_ACCESS = 'CHECK_OUT_VISIT_ACCESS';
+export const APPROVE_TRANSACTION = 'APPROVE_TRANSACTION';
+export const LIST_UNIT = 'LIST_UNIT';

@@ -1,0 +1,9 @@
+export const Admin = 'ADMIN';
+export const Owner = 'OWNER';
+export const Management = 'MANAGEMENT';
+export const Tenant = 'CUSTOMER';
+export const Security = 'SECURITY';
+export const Cleaner = 'CLEANING';
+export const HomeCleaner = 'HOME_CLEANER';
+export const CarCleaner = 'CAR_CLEANER';
+export const Maintenance = 'MAINTENANCE';
